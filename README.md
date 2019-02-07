@@ -1,10 +1,19 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+-Vivamus ac tellus condimentum, rhoncus tortor ornare, tristique diam.
+-In ullamcorper erat vitae mi ornare, sed interdum nunc rutrum.
+-In vehicula urna vel erat cursus, tempor lobortis odio ornare.
+-Nullam ornare ante sed odio lobortis pulvinar.
+-Donec semper lacus ac iaculis gravida.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+-Ut feugiat enim id enim convallis sollicitudin.
+-Phasellus dignissim magna vitae varius tincidunt.
+-Phasellus sed ipsum in neque feugiat rhoncus.
+-Sed at magna vitae elit vulputate aliquam eget eu diam.
+-Morbi dignissim felis ac elit efficitur eleifend.
 
 ## Getting started
 
